@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang='en'>
+    <head>
+        <meta charset="UTF-8">
+        <title>Local Community Event Portal</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <!-- header -->
+         <header id="home">
+            <nav>
+                <a href="#home">Home</a>
+                <a href="#events">Events</a>
+                <a href="#contact">Contact</a>
+            </nav>
+         </header>
+
+         <!-- main -->
+         <main>
+            <div id="mainHeader">
+                <h1>Welcome!! Our <span style="color: red; font-weight: bold;"> Buy 1 Get 1 </span>Offer is Live..</h1>
+            </div>
+            <section id="events">
+                <a href="help.html" target="_blank">click me !!</a>
+
+                <section id="promo-video">
+                    <video controls width="400px" oncanplay="readyToPlay()">
+                        <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+                    </video>
+                    <p id="videoStatus"></p>
+                </section>
+
+
+                <table>
+                    <caption>Community Event Gallery</caption>
+                    <tr>
+                        <td><img src="https://picsum.photos/200" title="first" alt="1" class="gallery" ondblclick="zoomImg(this)"></td>
+                        <td><img src="https://picsum.photos/201" title="second" alt="2" class="gallery" ondblclick="zoomImg(this)"></td>
+                        <td><img src="https://picsum.photos/202" title="third" alt="3" class="gallery" ondblclick="zoomImg(this)"></td>
+                    </tr>
+                    <tr>
+                        <td><img src="https://picsum.photos/203" title="fourth" alt="4" class="gallery" ondblclick="zoomImg(this)"></td>
+                        <td><img src="https://picsum.photos/204" title="fifth" alt="5" class="gallery" ondblclick="zoomImg(this)"></td>
+                        <td><img src="https://picsum.photos/205" title="sixth" alt="6" class="gallery" ondblclick="zoomImg(this)"></td>
+                    </tr>
+                </table>
+                <div class="eventCard">
+                    <form id="regForm" action="#" method="post">
+                        <input id="name" type="text" placeholder="yourName" required autofocus class="input-box">
+                        <input id="email" type="email" placeholder="youremail@gmail.com" required class="input-box">
+                        <input id="Phnum" type="tel" required class="input-box" placeholder="phone number" onblur="checkNum()" >
+                        <input type="date" required class="input-box">
+                        <select id="eventType" class="input-box" onchange="displayFee()">
+                            <option>Select the option</option>
+                            <option value="Concert">Concert</option>
+                            <option value="Workshop">Workshop</option>
+                            <option value="Town Hall">Town Hall</option>
+                        </select>
+                        <textarea id="feedback" class="input-box" placeholder="your feedback" oninput="countChars()"></textarea>
+                        <p>Characters : <span id="count">0</span></p>
+                        <button type="submit" class="input-box" onclick="submitForm()">Register</button>
+                        <button type="button" class="input-box" onclick="clearPerference()">Clear Preferences</button>
+                        <output id="confirmationMessage"></output>
+                    </form>
+
+
+                    <div class="eventCard">
+                        <label for="searchBar">Quick Search Event :</label>
+                        <input id="searchBar" type="text" placeholder="Type event name here..." class="input-box">
+                    </div>
+                    
+                    <div id="dynamicEventContainer"></div>
+                    <button onclick="fetchEvent()" class="inpur-box">Click me</button>
+                    
+                </div>
+
+            </section>
+
+            <section id="geolocation">
+                <h3>Neartest Event location</h3>
+                <button id="geobutton" class="input-box">Find Nearby Events</button>
+                <p id="locationDisplay">Coordinates will be displayed here...</p>
+            </section> 
+
+            <section id="bulletin-board" class="eventCard">
+                <h2>City Council News Bulletin</h2>
+                <article class="news-article">
+                    <h3>Annual Summer Festival Announcements</h3>
+                    <p>
+                        Welcome to the official updates section of our local city portal. This weekend, the municipal council is
+                        kicking off our annual community engagement program, featuring interactive town halls, music workshops, and
+                        outdoor heritage walks designed for residents of all age brackets.
+                    </p>
+                    <p>
+                        Please note that several streets surrounding the main square will be temporarily zoned off for
+                        pedestrian-only accessibility. We highly encourage utilizing public transit lines or accessing the
+                        geolocation mapping utility built into this portal to locate alternative parking structures smoothly.
+                    </p>
+                    <p>
+                        Volunteer sign-ups remain open until Thursday afternoon. If you are interested in contributing to event
+                        operations, logistics management, or helping run our digital information booths, please fill out your
+                        contact metrics inside our online portal registry above.
+                    </p>
+                </article>
+            </section>
+
+            <section id="contact" class="highlight">
+                <h2>Contact Details :</h2>
+            </section>
+
+
+         </main>
+
+         <!-- footer -->
+         <footer class="highlight">
+            <p>copyright reserved by @omik</p>
+         </footer>
+        
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+        <script src="main.js"></script>
+        
+    </body>
+</html>
