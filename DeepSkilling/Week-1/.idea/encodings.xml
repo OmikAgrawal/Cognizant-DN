@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/JUnit_Advanced_Exercises/01_Parameterized_Tests/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/JUnit_Advanced_Exercises/01_Parameterized_Tests/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/JUnit_Advanced_Exercises/02_Test_Suites_and_Categories/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/JUnit_Advanced_Exercises/02_Test_Suites_and_Categories/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/JUnit_Advanced_Exercises/03_Test_Execution_Order/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/JUnit_Advanced_Exercises/03_Test_Execution_Order/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/JUnit_Advanced_Exercises/04_Exception_Testing/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/JUnit_Advanced_Exercises/04_Exception_Testing/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/JUnit_Advanced_Exercises/05_Timeout_and_Performance_Testing/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/JUnit_Advanced_Exercises/05_Timeout_and_Performance_Testing/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/JUnit_Basic_Exercises/01_Setting_Up_JUnit/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/JUnit_Basic_Exercises/01_Setting_Up_JUnit/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/JUnit_Basic_Exercises/02_Writing_Basic_JUnit_Tests/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/JUnit_Basic_Exercises/02_Writing_Basic_JUnit_Tests/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/JUnit_Basic_Exercises/03_Assertions_In_JUnit/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/JUnit_Basic_Exercises/03_Assertions_In_JUnit/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/JUnit_Basic_Exercises/04_Arrange_Act_Asset(AAA)_Pattern/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/JUnit_Basic_Exercises/04_Arrange_Act_Asset(AAA)_Pattern/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mocking_Dependencies_Spring_Tests/01_Mocking_a_Service_Dependency_in_a_Controller_Test/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mocking_Dependencies_Spring_Tests/02_ Mocking_a_Repository_in_a_Service_Test/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mocking_Dependencies_Spring_Tests/03_Mocking_a_Service_Dependency_in_an_Integration_Test/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Advanced_Exercises/01_Mocking_Databases_and_Repositories/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Advanced_Exercises/01_Mocking_Databases_and_Repositories/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Advanced_Exercises/02_Mocking_External_Services_(RESTful APIs)/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Advanced_Exercises/02_Mocking_External_Services_(RESTful APIs)/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Advanced_Exercises/03_Mocking_File_IO/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Advanced_Exercises/03_Mocking_File_IO/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Advanced_Exercises/04_Mocking_Network_Interactions/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Advanced_Exercises/04_Mocking_Network_Interactions/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Advanced_Exercises/05_Mocking_Multiple_Return_Values/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Advanced_Exercises/05_Mocking_Multiple_Return_Values/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Basic_Exercises/01_Mocking_and_Stubbing/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Basic_Exercises/01_Mocking_and_Stubbing/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Basic_Exercises/02_Verifying_Interactions/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Basic_Exercises/02_Verifying_Interactions/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Basic_Exercises/03_Argument_Matching/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Basic_Exercises/03_Argument_Matching/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Basic_Exercises/04_Handling_Void_Methods/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Basic_Exercises/04_Handling_Void_Methods/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Basic_Exercises/05_Mocking_and_Stubbing_with_Multiple_Returns/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Basic_Exercises/05_Mocking_and_Stubbing_with_Multiple_Returns/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Basic_Exercises/06_Verifying_Interaction_Order/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Basic_Exercises/06_Verifying_Interaction_Order/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Basic_Exercises/07_Handling_Void_Methods_with_Exceptions/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Basic_Exercises/07_Handling_Void_Methods_with_Exceptions/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/SLF4J_Exercises/01_Logging_Error_Messages_and_Warning_Levels/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/SLF4J_Exercises/01_Logging_Error_Messages_and_Warning_Levels/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/SLF4J_Exercises/02_Parameterized_Logging/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/SLF4J_Exercises/02_Parameterized_Logging/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/SLF4J_Exercises/03_Using_Different_Appenders/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/SLF4J_Exercises/03_Using_Different_Appenders/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Spring_Testing_Exercise/01_Basic_Unit_Test_for_a_Service_Method/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Spring_Testing_Exercise/01_Basic_Unit_Test_for_a_Service_Method/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Spring_Testing_Exercise/02_Mocking_a_Repository_in_a_Service_Test/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Spring_Testing_Exercise/02_Mocking_a_Repository_in_a_Service_Test/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Spring_Testing_Exercise/03_Testing_a_REST_Controller_with_MockMvc/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Spring_Testing_Exercise/03_Testing_a_REST_Controller_with_MockMvc/Code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Spring_Testing_Exercise/04_Integration_Test_with_Spring_Boot/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Spring_Testing_Exercise/05_Test_Controller_POST_Endpoint/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Spring_Testing_Exercise/06_Test_Service_Exception_Handling/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Spring_Testing_Exercise/07_Test_Custom_Repository_Query/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Spring_Testing_Exercise/08_Test_Controller_Exception_Handling/Code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Spring_Testing_Exercise/09_Parameterized_Test_with_JUnit/Code/src/main/java" charset="UTF-8" />
+  </component>
+</project>

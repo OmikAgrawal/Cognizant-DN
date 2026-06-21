@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="CustomRepoQuery" />
+        <module name="MockingAndStubbing" />
+        <module name="AssertionsInJUnit" />
+        <module name="TestControllerPOSTEndPoint" />
+        <module name="MockingServiceDependency (1) (com.sakthivel)" />
+        <module name="SettingUpJUnit" />
+        <module name="LoggingErrorMessages" />
+        <module name="TestExceptionHandling" />
+        <module name="ParameterizedTests" />
+        <module name="UsingDifferentAppenders" />
+        <module name="MockDatabaseAndRepo" />
+        <module name="ParameterizedLogging" />
+        <module name="ExceptionTesting" />
+        <module name="VerifyInteractions" />
+        <module name="MockingAndStubbingWithMultipleReturns" />
+        <module name="TimeoutAndPerformanceTest" />
+        <module name="HandlingVoidMethods" />
+        <module name="ArgumentMatching" />
+        <module name="HandlingVoidMethodsWithExceptions" />
+        <module name="MockingMultipleReturnValues" />
+        <module name="MockingRepoInServiceMethod (1)" />
+        <module name="TestControllerExcepHandling" />
+        <module name="MockingRepoInServiceMethod" />
+        <module name="AAAPattern" />
+        <module name="Code" />
+        <module name="MockingNetworkInteractions" />
+        <module name="GroupRelatedTests" />
+        <module name="VerifyingInteractionOrder" />
+        <module name="MockingFileInputOrOutput" />
+        <module name="MockingExternalServices" />
+        <module name="TestExecutionOrder" />
+        <module name="IntegrationTesting" />
+      </profile>
+      <profile name="Annotation profile for Code (1) (com.example)" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.42/lombok-1.18.42.jar" />
+        </processorPath>
+        <module name="Code (1) (com.example)" />
+      </profile>
+      <profile name="Annotation profile for Code (2) (com.example)" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.42/lombok-1.18.42.jar" />
+        </processorPath>
+        <module name="Code (2) (com.example)" />
+      </profile>
+      <profile name="Annotation profile for Code" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.38/lombok-1.18.38.jar" />
+        </processorPath>
+        <module name="MockingServiceDependency" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="BasicJUnit" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Code (1) (com.example)" options="-parameters" />
+      <module name="Code (2) (com.example)" options="-parameters" />
+      <module name="CustomRepoQuery" options="-parameters" />
+      <module name="IntegrationTesting" options="-parameters" />
+      <module name="MockingServiceDependency" options="-parameters" />
+      <module name="MockingServiceDependency (1) (com.sakthivel)" options="-parameters" />
+      <module name="TestControllerExcepHandling" options="-parameters" />
+      <module name="TestControllerPOSTEndPoint" options="-parameters" />
+      <module name="TestExceptionHandling" options="-parameters" />
+    </option>
+  </component>
+</project>

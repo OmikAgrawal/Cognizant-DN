@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/SLF4J_Exercises/02_Parameterized_Logging/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/SLF4J_Exercises/03_Using_Different_Appenders/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/SLF4J_Exercises/01_Logging_Error_Messages_and_Warning_Levels/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/JUnit_Basic_Exercises/01_Setting_Up_JUnit/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/JUnit_Basic_Exercises/03_Assertions_In_JUnit/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/JUnit_Basic_Exercises/02_Writing_Basic_JUnit_Tests/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/JUnit_Basic_Exercises/04_Arrange_Act_Asset(AAA)_Pattern/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Basic_Exercises/03_Argument_Matching/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Basic_Exercises/01_Mocking_and_Stubbing/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Basic_Exercises/04_Handling_Void_Methods/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Basic_Exercises/02_Verifying_Interactions/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Basic_Exercises/06_Verifying_Interaction_Order/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Basic_Exercises/07_Handling_Void_Methods_with_Exceptions/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Basic_Exercises/05_Mocking_and_Stubbing_with_Multiple_Returns/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Spring_Testing_Exercise/07_Test_Custom_Repository_Query/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Spring_Testing_Exercise/05_Test_Controller_POST_Endpoint/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Spring_Testing_Exercise/09_Parameterized_Test_with_JUnit/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Spring_Testing_Exercise/06_Test_Service_Exception_Handling/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Spring_Testing_Exercise/04_Integration_Test_with_Spring_Boot/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Spring_Testing_Exercise/08_Test_Controller_Exception_Handling/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Spring_Testing_Exercise/01_Basic_Unit_Test_for_a_Service_Method/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Spring_Testing_Exercise/02_Mocking_a_Repository_in_a_Service_Test/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Spring_Testing_Exercise/03_Testing_a_REST_Controller_with_MockMvc/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/JUnit_Advanced_Exercises/04_Exception_Testing/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/JUnit_Advanced_Exercises/01_Parameterized_Tests/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/JUnit_Advanced_Exercises/03_Test_Execution_Order/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/JUnit_Advanced_Exercises/02_Test_Suites_and_Categories/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/JUnit_Advanced_Exercises/05_Timeout_and_Performance_Testing/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Advanced_Exercises/03_Mocking_File_IO/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Advanced_Exercises/04_Mocking_Network_Interactions/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Advanced_Exercises/05_Mocking_Multiple_Return_Values/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Advanced_Exercises/01_Mocking_Databases_and_Repositories/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mockito_Advanced_Exercises/02_Mocking_External_Services_(RESTful APIs)/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mocking_Dependencies_Spring_Tests/02_ Mocking_a_Repository_in_a_Service_Test/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mocking_Dependencies_Spring_Tests/01_Mocking_a_Service_Dependency_in_a_Controller_Test/Code/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Mockito_and_SLF4J/Mocking_Dependencies_Spring_Tests/03_Mocking_a_Service_Dependency_in_an_Integration_Test/Code/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="openjdk-26" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
