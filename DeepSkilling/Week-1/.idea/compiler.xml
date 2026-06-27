@@ -6,69 +6,45 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="CustomRepoQuery" />
         <module name="MockingAndStubbing" />
         <module name="AssertionsInJUnit" />
-        <module name="TestControllerPOSTEndPoint" />
-        <module name="MockingServiceDependency (1) (com.sakthivel)" />
         <module name="SettingUpJUnit" />
         <module name="LoggingErrorMessages" />
-        <module name="TestExceptionHandling" />
-        <module name="ParameterizedTests" />
-        <module name="UsingDifferentAppenders" />
-        <module name="MockDatabaseAndRepo" />
-        <module name="ParameterizedLogging" />
-        <module name="ExceptionTesting" />
         <module name="VerifyInteractions" />
-        <module name="MockingAndStubbingWithMultipleReturns" />
-        <module name="TimeoutAndPerformanceTest" />
-        <module name="HandlingVoidMethods" />
-        <module name="ArgumentMatching" />
-        <module name="HandlingVoidMethodsWithExceptions" />
-        <module name="MockingMultipleReturnValues" />
-        <module name="MockingRepoInServiceMethod (1)" />
-        <module name="TestControllerExcepHandling" />
-        <module name="MockingRepoInServiceMethod" />
         <module name="AAAPattern" />
-        <module name="Code" />
-        <module name="MockingNetworkInteractions" />
-        <module name="GroupRelatedTests" />
-        <module name="VerifyingInteractionOrder" />
-        <module name="MockingFileInputOrOutput" />
-        <module name="MockingExternalServices" />
-        <module name="TestExecutionOrder" />
-        <module name="IntegrationTesting" />
-      </profile>
-      <profile name="Annotation profile for Code (1) (com.example)" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="false">
-          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.42/lombok-1.18.42.jar" />
-        </processorPath>
-        <module name="Code (1) (com.example)" />
-      </profile>
-      <profile name="Annotation profile for Code (2) (com.example)" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="false">
-          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.42/lombok-1.18.42.jar" />
-        </processorPath>
-        <module name="Code (2) (com.example)" />
-      </profile>
-      <profile name="Annotation profile for Code" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="false">
-          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.38/lombok-1.18.38.jar" />
-        </processorPath>
-        <module name="MockingServiceDependency" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="ArgumentMatching" target="21" />
       <module name="BasicJUnit" target="21" />
+      <module name="Code" target="21" />
+      <module name="Code (1) (com.example)" target="21" />
+      <module name="Code (2) (com.example)" target="21" />
+      <module name="CustomRepoQuery" target="21" />
+      <module name="ExceptionTesting" target="21" />
+      <module name="GroupRelatedTests" target="21" />
+      <module name="HandlingVoidMethods" target="21" />
+      <module name="HandlingVoidMethodsWithExceptions" target="21" />
+      <module name="IntegrationTesting" target="17" />
+      <module name="MockDatabaseAndRepo" target="21" />
+      <module name="MockingAndStubbingWithMultipleReturns" target="21" />
+      <module name="MockingExternalServices" target="21" />
+      <module name="MockingFileInputOrOutput" target="21" />
+      <module name="MockingMultipleReturnValues" target="21" />
+      <module name="MockingNetworkInteractions" target="21" />
+      <module name="MockingRepoInServiceMethod" target="21" />
+      <module name="MockingRepoInServiceMethod (1)" target="21" />
+      <module name="MockingServiceDependency" target="21" />
+      <module name="MockingServiceDependency (1) (com.sakthivel)" target="21" />
+      <module name="ParameterizedLogging" target="21" />
+      <module name="ParameterizedTests" target="21" />
+      <module name="TestControllerExcepHandling" target="21" />
+      <module name="TestControllerPOSTEndPoint" target="21" />
+      <module name="TestExceptionHandling" target="21" />
+      <module name="TestExecutionOrder" target="21" />
+      <module name="TimeoutAndPerformanceTest" target="21" />
+      <module name="UsingDifferentAppenders" target="21" />
+      <module name="VerifyingInteractionOrder" target="21" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
